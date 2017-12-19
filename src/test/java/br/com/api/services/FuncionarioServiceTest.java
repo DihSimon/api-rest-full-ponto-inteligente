@@ -34,7 +34,7 @@ public class FuncionarioServiceTest {
 	@Autowired
 	private FuncionarioService funcionarioService;
 	
-	private static final String CNPJ = "51463645000100";
+	private static final String CNPJ = "514636450001000";
 	private static final String EMAIL = "teste@email.com.br";
 	
 	@Before
