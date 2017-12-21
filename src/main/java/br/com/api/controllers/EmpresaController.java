@@ -18,7 +18,7 @@ import br.com.api.response.Response;
 import br.com.api.services.EmpresaService;
 
 /**
- * Controler de empresa
+ * Controler de empresa 2
  * @author <a href="mailto:diegosimoncarmona@gmail.com">Diego Simon</a>
  */
 @RestController
