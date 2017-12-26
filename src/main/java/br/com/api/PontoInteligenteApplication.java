@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
- * Classe star aplicação 
+ * Classe start aplicação 
  * @author <a href="mailto:diegosimoncarmona@gmail.com">Diego Simon</a>
  */
 @SpringBootApplication
